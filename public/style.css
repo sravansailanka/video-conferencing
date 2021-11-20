@@ -23,7 +23,7 @@
 }
 
 .main__controls {
-    background-color:#212529;
+    background-color: #1C1E20;
 }
 
 .main__right {
@@ -64,7 +64,6 @@
 .main__right {
     display: flex;
     flex-direction: column;
-    background-color: #212529;
 }
 
 .main__header {
